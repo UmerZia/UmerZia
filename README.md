@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umer Zia</h1>
 <h3 align="center">Learning Full Stack Web Development</h3>
 
-- 🔭 I’m currently working at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
+- 🔭 I’m currently a student at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
 
 - 🌱 I’m currently learning **HTML | CSS | JS | React | Ruby | RoR**
 
