@@ -18,6 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dev-umer-zia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-umer-zia" height="30" width="40" /></a>
-<a href="https://discord.gg/umerzia#4699" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="umerzia#4699" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-umer-zia" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" /></a>
+<a href="https://twitter.com/DevUmerZia" target="blank"><img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" /></a>
 </p>
