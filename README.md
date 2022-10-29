@@ -3,9 +3,11 @@
  
 - 🔭 I’m currently a student at [Microverse](https://www.microverse.org/?grsf=nnlhmv)
 
-- 🌱 I’m currently learning **HTML | CSS | JS | React | Ruby | RoR**
+- 🌱 I’m currently learning full stack web development **HTML | CSS | JS | React | Ruby | RoR**
 
 - 📫 How to reach me **dev.umerzia@gmail.com**
+
+- Searching for job.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umerzia&label=Profile%20views&color=0e75b6&style=flat" alt="umerzia" /> </p>
 
